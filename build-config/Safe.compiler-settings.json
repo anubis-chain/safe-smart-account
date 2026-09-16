@@ -1,0 +1,27 @@
+{
+  "compiler": {
+    "version": "0.7.6+commit.7338295f"
+  },
+  "language": "Solidity",
+  "settings": {
+    "remappings": [
+      "@openzeppelin/=lib/safe-smart-account/node_modules/@openzeppelin/",
+      "@safe-global/safe-smart-account/=lib/safe-smart-account/",
+      "ds-test/=lib/forge-std/lib/ds-test/src/",
+      "forge-std/=lib/forge-std/src/",
+      "safe-smart-account/=lib/safe-smart-account/"
+    ],
+    "optimizer": {
+      "enabled": false,
+      "runs": 200
+    },
+    "metadata": {
+      "bytecodeHash": "ipfs"
+    },
+    "compilationTarget": {
+      "lib/safe-smart-account/contracts/Safe.sol": "Safe"
+    },
+    "evmVersion": "istanbul",
+    "libraries": {}
+  }
+}

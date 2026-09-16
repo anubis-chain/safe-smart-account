@@ -1,0 +1,14 @@
+FORGE_STD_REPOSITORY=https://github.com/foundry-rs/forge-std.git
+FORGE_STD_REF=v1.2.0
+FORGE_STD_COMMIT=eb980e1d4f0e8173ec27da77297ae411840c8ccb
+FORGE_STD_VERSION=1.2.0
+
+SAFE_REPOSITORY=https://github.com/safe-global/safe-smart-account.git
+SAFE_REF=v1.5.0
+SAFE_COMMIT=dc437e8fba8b4805d76bcbd1c668c9fd3d1e83be
+SAFE_VERSION=1.5.0
+
+OPENZEPPELIN_REPOSITORY=https://github.com/OpenZeppelin/openzeppelin-contracts.git
+OPENZEPPELIN_REF=v3.4.2
+OPENZEPPELIN_COMMIT=8e0296096449d9b1cd7c5631e917330635244c37
+OPENZEPPELIN_VERSION=3.4.2

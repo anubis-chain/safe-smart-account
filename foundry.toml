@@ -1,0 +1,7 @@
+[profile.default]
+src = "source/safe-smart-account/contracts"
+out = "review-out"
+libs = []
+solc = "0.7.6"
+optimizer = false
+

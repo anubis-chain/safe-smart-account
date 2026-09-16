@@ -1,0 +1,14 @@
+name	immutable_ranges	local_bytes	chain_bytes	normalized_match	immutable_values_match
+Safe	0	21451	21451	yes	yes
+SafeL2	0	22231	22231	yes	yes
+SafeProxyFactory	0	3321	3321	yes	yes
+TokenCallbackHandler	0	2467	2467	yes	yes
+MultiSend	1	640	640	yes	yes
+MultiSendCallOnly	0	421	421	yes	yes
+CompatibilityFallbackHandler	0	6294	6294	yes	yes
+ExtensibleFallbackHandler	0	11659	11659	yes	yes
+SignMessageLib	0	966	966	yes	yes
+CreateCall	0	1099	1099	yes	yes
+SafeToL2Setup	1	820	820	yes	yes
+SafeMigration	14	2051	2051	yes	yes
+SimulateTxAccessor	1	850	850	yes	yes

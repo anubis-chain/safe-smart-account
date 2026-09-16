@@ -1,0 +1,9 @@
+{
+  "chainId": 6714,
+  "safeVersion": null,
+  "singleton": "0xe9c0dcAEAeD249730E4364F81DB565517F920e46",
+  "proxyFactory": "0x34fAEC3BD5fD968f58E5bC4E945230c0fA7979C7",
+  "fallbackHandler": "0xdd5b51bce0C7abC83e508396b182F7c092AB6697",
+  "multiSend": "0x0aB6AEd0C8c5b1AAc245acfe450091aC80ad6D6e",
+  "multiSendCallOnly": "0x74dc591CD6aEFFE853223F38530583365e377eea"
+}

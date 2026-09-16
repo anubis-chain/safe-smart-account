@@ -1,0 +1,12 @@
+Input archive SHA-256: da0f1a8a3f08335987c3df21dedbfc31dab5baa9a2294f529fdb160513e11ccd
+
+Read-only comparison scope:
+- safe-smart-account Solidity source tree
+- DeploySafe.s.sol
+- foundry.toml
+- dependencies.lock
+- 14 target Foundry artifacts
+- Chain 6714 Safe v1.5.0 deployment manifest
+
+Result: all compared files are byte-for-byte identical to the verified workspace snapshot used for this review package.
+
