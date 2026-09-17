@@ -1,5 +1,8 @@
 # Anubis Chain Safe v1.5.0
 
+[![CI](https://github.com/anubis-chain/safe-smart-account/actions/workflows/ci.yml/badge.svg)](https://github.com/anubis-chain/safe-smart-account/actions/workflows/ci.yml)
+[![License: LGPL-3.0-only](https://img.shields.io/badge/license-LGPL--3.0--only-blue.svg)](LICENSE)
+
 Verified **Safe smart-account contracts** deployed on Anubis Chain mainnet (chain ID `6714`).
 
 This repository is the **verified contract source** plus the production deployment record for Anubis Chain. It is not the hosted wallet UI.
@@ -67,3 +70,7 @@ This proves the artifacts in this repo match runtime bytecode on chain 6714. It 
 ## License
 
 LGPL-3.0-only, same as [Safe smart account](https://github.com/safe-global/safe-smart-account). See [LICENSE](LICENSE).
+
+## Security
+
+Please report Anubis deployment or integration vulnerabilities privately as described in [SECURITY.md](SECURITY.md). Vulnerabilities in the upstream Safe contracts should also follow [Safe's security policy](https://github.com/safe-global/safe-smart-account/security/policy).

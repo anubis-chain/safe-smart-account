@@ -15,5 +15,7 @@ jobs:
       - uses: foundry-rs/foundry-toolchain@v1
         with:
           version: stable
+      - name: Verify published file checksums
+        run: shasum -a 256 -c FILES.sha256
       - run: forge --version
       - run: forge build
