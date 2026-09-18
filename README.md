@@ -5,7 +5,7 @@
 
 Verified **Safe smart-account contracts** deployed on Anubis Chain mainnet (chain ID `6714`).
 
-This repository is the **verified contract source** plus the production deployment record for Anubis Chain. It is not the hosted wallet UI.
+Contains the verified contract source and production deployment records for Anubis Chain.
 
 **[GuardSafe](https://guardsafe.org/)** is the live multisig dapp. **[AnubisScan](https://anubisscan.io/)** is the explorer. RPC: `https://rpc.anubispace.org`
 
